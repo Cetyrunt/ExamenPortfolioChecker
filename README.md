@@ -64,7 +64,7 @@ pip install pandas openpyxl PySide6
 ```
 Running the App
 ```
-python Checker.py
+python file_inspector.py
 ```
 
 Then:
